@@ -732,6 +732,27 @@ header {
     flex-direction: column-reverse;
   }
 
+  .Content2-acardeon-title,
+  .Content2-blocks-title {
+    font-size: 8vw;
+  }
+
+  .Content2-phone-blocks p {
+    font-size: 4vw;
+  }
+
+  .Content2-info-coments {
+    padding: 0 0%;
+  }
+
+  .Content2-coments-blocks-img {
+    width: 50vw;
+  }
+
+  .Content2-coments-blocks p {
+    font-size: 3vw;
+  }
+
   .info-contact-comment {
     background: white;
   }
